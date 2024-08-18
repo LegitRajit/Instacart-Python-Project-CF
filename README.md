@@ -15,4 +15,4 @@ The repository has multiple folders which I will provide a brief overview:
 
 _Note: 02 Data Folder (which contains all the data and its respective manipulations) is not included inside of github due to the files being too large_ 
 
-The most important files inside of this repository are A4 Final Report _(under 05 sent to client)_ and 4.10 IC Final Report Analysis _(under 03 Scripts)_
+The most important files inside of this repository are A4 Final Report _(under 05 sent to client)_ and 4.10 IC Final Report Analysis _(under 03 Scripts)_ as these files provide the most information on what I did in Python and how I presented my findings for Instacart
